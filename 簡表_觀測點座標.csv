@@ -1,0 +1,3 @@
+編號,中文名,原文名,原文語言,資料集裡的名稱,原始論文,資料集_緯度,資料集_經度,實際地點_緯度,實際地點_經度,海拔_m,⚠ 兩者相距_km,備註
+1,都蘭,都兰县 ／ Дулаан (Хайши),漢語／蒙古語,PANGAEA 808750,"Sheppard, Tarasov, Graumlich, Heussner, Wagner, Österle, Thompson (2004) Climate Dynamics 23:869-881",35.000,96.000,36.300,98.083,,237,⚠ 資料集座標是四捨五入的區域座標（Event 欄寫的是整個「Qinghai」省），不是採樣林地
+2,霍爾戈熔岩台地（音譯，⚠ 無通行中文名）,Хорго,蒙古語,NOAA 24830 ／ ITRDB MONG041,"Hessl, Anchukaitis, Jelsema et al. (2018) Science Advances 4(3):e1701832",48.170,99.870,48.185,99.855,2060,2.0,⚠ 樹種是西伯利亞五針松 Pinus sibirica（PISI）⛔ 不是落葉松。⚠ 同地點另有 MONG039（110 棵）＝ Pederson et al. (2014) PNAS 111:4375-4379 用的那份
